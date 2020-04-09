@@ -1,39 +1,40 @@
 {
-	"data": [{
-			"Movie": "The Incredible Hulk",
-			"Universe": "2011",
-			"Release Year": "2008",
-			"IMDB": "6.8"
-		},
-		{
-			"Movie": "Iron Man",
-			"Universe": "2010",
-			"Release Year": "2008",
-			"IMDB": "7.9"
-		},
-		{
-			"Movie": "Iron Man 2",
-			"Universe": "2011",
-			"Release Year": "2010",
-			"IMDB": "7.0"
-		},
-		{
-			"Movie": "Captain America: First Avenger",
-			"Universe": "1943",
-			"Release Year": "2011",
-			"IMDB": "6.9"
-        },
-        {
-			"Movie": "Thor",
-			"Universe": "2011",
-			"Release Year": "2011",
-			"IMDB": "7.0"
-        },
-        {
-			"Movie": "Avengers",
-			"Universe": "2012",
-			"Release Year": "2012",
-			"IMDB": "8.1"
-        }
-	]
+   "data":[
+      {
+         "Movie":"The Incredible Hulk",
+         "Universe":"2011",
+         "Release Year":"2008",
+         "IMDB":"6.8"
+      },
+      {
+         "Movie":"Iron Man",
+         "Universe":"2010",
+         "Release Year":"2008",
+         "IMDB":"7.9"
+      },
+      {
+         "Movie":"Iron Man 2",
+         "Universe":"2011",
+         "Release Year":"2010",
+         "IMDB":"7.0"
+      },
+      {
+         "Movie":"Captain America: First Avenger",
+         "Universe":"1943",
+         "Release Year":"2011",
+         "IMDB":"6.9"
+      },
+      {
+         "Movie":"Thor",
+         "Universe":"2011",
+         "Release Year":"2011",
+         "IMDB":"7.0"
+      },
+      {
+         "Movie":"Avengers",
+         "Universe":"2012",
+         "Release Year":"2012",
+         "IMDB":"8.1"
+      }
+   ]
 }
